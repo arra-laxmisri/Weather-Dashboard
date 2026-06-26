@@ -1,0 +1,38 @@
+.inputElement{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 20px;
+}
+.container{
+    background-color: aqua;
+    border-radius: 10px;
+    height: 50vh;
+    width: 350px;
+   margin: auto;
+}
+.CityInput{
+    height: 35px;
+    width: 200px;
+    padding: 5px;
+    font-size: 15px;
+}
+.BtnElement{
+    padding: 0;
+    margin: 0;
+    height: 50px;
+    width: 50px;
+    margin: 5px;
+    cursor: pointer;
+}
+.DisplayEle{
+    display: grid;
+    align-items: center;
+    text-align: center;
+    font-size: 18px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.BtnElement i{
+    color: black;
+    font-size: 28px;
+}
